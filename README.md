@@ -38,4 +38,4 @@ O Wave to Earth é um site de turismo que apresenta destinos imperdíveis ao red
 
 1. Faça o download do código ou clone o repositório:
    ```bash
-   git clone [URL do repositório]
+   git clone [https://github.com/allanjaychristo/agencia-de-viagens.git]
